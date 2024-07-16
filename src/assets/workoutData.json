@@ -1,0 +1,48 @@
+{
+    "popularWorkouts": [
+        {
+            "id": 1,
+            "name": "Lower Body Training",
+            "duration": 45,
+            "kcal": "500 kcal",
+            "image": "../assets/fitness.jpg"
+        },
+        {
+            "id": 2,
+            "name": "Cardio Workout",
+            "duration": 30,
+            "kcal": "300 kcal",
+            "image": "../assets/fitness.jpg"
+        },
+        {
+            "id": 3,
+            "name": "Yoga Workout",
+            "duration": 60,
+            "kcal": "400 kcal",
+            "image": "../assets/fitness.jpg"
+        }
+    ],
+    "todayPlan": [
+        {
+            "id": 1,
+            "name": "Push Up",
+            "target": "100 Push up a day",
+            "percentage": 0,
+            "image": "require('../assets/fitness.jpg')"
+        },
+        {
+            "id": 2,
+            "name": "Morning Run",
+            "target": "5 km run",
+            "percentage": 0,
+            "image": "require('../assets/fitness.jpg')"
+        },
+        {
+            "id": 3,
+            "name": "Upper Leg",
+            "target": "1 hour swim",
+            "percentage": 0,
+            "image": "require('../assets/fitness.jpg')"
+        }
+    ]
+}

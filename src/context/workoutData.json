@@ -1,0 +1,34 @@
+{
+    "popularWorkouts": [
+        {
+            "id": 1,
+            "name": "Lower Body Training",
+            "duration": "45 mins",
+            "kcal": "500 kcal",
+            "image": "../assets/fitness.jpg"
+        },
+        {
+            "id": 2,
+            "name": "Cardio Workout",
+            "duration": "30 mins",
+            "kcal": "300 kcal",
+            "image": "../assets/fitness.jpg"
+        },
+        {
+            "id": 3,
+            "name": "Yoga Workout",
+            "duration": "60 mins",
+            "kcal": "400 kcal",
+            "image": "../assets/fitness.jpg"
+        }
+    ],
+    "todayPlan": [
+        {
+            "id": 1,
+            "name": "Push Up",
+            "target": "100 Push up a day",
+            "percentage": 50,
+            "image": "../assets/fitness.jpg"
+        }
+    ]
+}
